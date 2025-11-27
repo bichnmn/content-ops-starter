@@ -24,7 +24,7 @@
     },
     "h3": {
         "size": "3xl",
-        "weight": "semibold",
+        "weight": "normal",
         "decoration": "none",
         "case": "none",
         "letterSpacing": "normal",
@@ -32,7 +32,7 @@
     },
     "h4": {
         "size": "2xl",
-        "weight": "semibold",
+        "weight": "normal",
         "decoration": "none",
         "case": "none",
         "letterSpacing": "normal",
@@ -40,7 +40,7 @@
     },
     "h5": {
         "size": "xl",
-        "weight": "semibold",
+        "weight": "normal",
         "decoration": "none",
         "case": "none",
         "letterSpacing": "normal",
@@ -48,14 +48,14 @@
     },
     "h6": {
         "size": "lg",
-        "weight": "medium",
+        "weight": "normal",
         "decoration": "none",
         "case": "none",
         "letterSpacing": "normal",
         "type": "ThemeStyleHeading"
     },
     "buttonPrimary": {
-        "weight": "semibold",
+        "weight": "normal",
         "case": "none",
         "letterSpacing": "normal",
         "borderRadius": "lg",
@@ -65,7 +65,7 @@
         "type": "ThemeStyleButton"
     },
     "buttonSecondary": {
-        "weight": "medium",
+        "weight": "normal",
         "case": "none",
         "letterSpacing": "normal",
         "borderRadius": "lg",
@@ -75,13 +75,13 @@
         "type": "ThemeStyleButton"
     },
     "linkPrimary": {
-        "weight": "semibold",
+        "weight": "normal",
         "case": "none",
         "letterSpacing": "normal",
         "type": "ThemeStyleLink"
     },
     "linkSecondary": {
-        "weight": "medium",
+        "weight": "normal",
         "case": "none",
         "letterSpacing": "normal",
         "type": "ThemeStyleLink"
